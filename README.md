@@ -14,8 +14,6 @@ Skills: Dart / Flutter / Java / C / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nezam10&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nezam10)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nezam10)  
 
 ![Profile views](https://gpvc.arturio.dev/Nezam10)  
