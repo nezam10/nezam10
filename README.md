@@ -1,7 +1,5 @@
-### Hi there 👋, hi
+### Hi, I am Md Nezam Uddin
 #### Mobile App Developer - Flutter
-![Mobile App Developer - Flutter](https://c4.wallpaperflare.com/wallpaper/857/383/601/programmers-logo-php-hd-wallpaper-preview.jpg)
-
 I love to solve problems using technology that improves user’s life on a major scale. Over the last several years, I have been developing various mobile apps in different areas.
 
 Skills: Dart / Flutter / Java / C / HTML / CSS
