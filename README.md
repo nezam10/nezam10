@@ -1,6 +1,7 @@
 ### Hi, I am Md Nezam Uddin
 ##### Mobile App Developer - Flutter
 I love to solve problems using technology that improves user’s life on a major scale. Over the last several years, I have been developing various mobile apps in different areas.
+
 Skills: Dart / Flutter / Java / C / HTML / CSS
 
 - 🔭 I’m currently working on Bdtask Ltd 
